@@ -1,2 +1,2 @@
 # project-Recurrent-Neural-Networks
-# project RNN
+# I have data for Google and want to predict the price of Google stock using my data.
